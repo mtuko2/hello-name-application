@@ -6,4 +6,24 @@ body{
     justify-content: center;
     align-items: center;
     height: 50vh;
+    background-color: aqua;
+}
+.container{
+    text-align: center;
+}
+span{
+    color: red;
+}
+
+button {
+
+    background-color: hotpink ;
+    color: whitesmoke;
+    padding: auto;
+    border: 2px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: blue;
 }
